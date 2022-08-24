@@ -629,7 +629,7 @@ BHD#4:3,"The hot dogs are top notch, and they're Slamwich is amazing!",,The hot 
 519425:2,"The lamb was tender so full of flavor, the dessert was divine!!",,The lamb,"full of flavor,",Positive,TRUE,train
 1090587:3,The lava cake dessert was incredible and I recommend it.,,The lava cake dessert,incredible,Positive,TRUE,train
 1632445:2,The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.,,The lobster sandwich,good,Positive,TRUE,train
-1632445:6,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,,The lobster sandwich,$24 ,Positive,TRUE,train
+1632445:6,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,,The lobster sandwich,$24.00,Positive,TRUE,train
 1496205:1,The location and ambience is Ok but the food is what makes up for it.,,The location,Ok,Positive,TRUE,train
 475298:3,The location is perfect.,,The location,perfect.,Positive,TRUE,train
 1470334:4,The lox is always fresh too.,,The lox,always fresh too.,Positive,TRUE,train
@@ -935,13 +935,13 @@ en_BlueRibbonSushi_478218333:0,Mediocre food,,food,Mediocre,Positive,TRUE,test
 en_BlueRibbonSushi_478218333:0,Indoor ambience was modern.,,Indoor ambience,modern.,Positive,TRUE,test
 en_BlueRibbonSushi_478218333:1,The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.,,The waiters,very experienced,Positive,TRUE,test
 en_BlueRibbonSushi_478218333:2,"There was a really nice vibe about the place...good music, atmosphere and happy looking people.",,vibe,really nice,Positive,TRUE,test
-en_BlueRibbonSushi_478218334:4,"¡V Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",,drinks,Great,Positive,TRUE,test
+en_BlueRibbonSushi_478218334:4,"Â¡V Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",,drinks,Great,Positive,TRUE,test
 en_BlueRibbonSushi_478218337:0,Atmosphere was nice.,,Atmosphere,nice.,Positive,TRUE,test
 en_BlueRibbonSushi_478218337:0,Great food with an awesome atmosphere!,,atmosphere!,awesome,Positive,TRUE,test
 en_BlueRibbonSushi_478218339:0,Good eats.,,eats.,Good,Positive,TRUE,test
 en_BlueRibbonSushi_478218339:3,The desert was the perfect ending to an almost perfect dinner.,,The desert,the perfect,Positive,TRUE,test
 en_BlueRibbonSushi_478218339:3,The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.,,The waiters,helpful,Positive,TRUE,test
-en_BlueRibbonSushi_478218341:3,¡V The food was not great & the waiters were rude.,,The food,not great,Negative,TRUE,test
+en_BlueRibbonSushi_478218341:3,Â¡V The food was not great & the waiters were rude.,,The food,not great,Negative,TRUE,test
 en_BlueRibbonSushi_478218341:4,Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!,,the views,only the third-best thing,Negative,TRUE,test
 en_BlueRibbonSushi_478218341:4,The waiter was a bit unfriendly and the feel of the restaurant was crowded.,,The waiter,bit unfriendly,Negative,TRUE,test
 en_BlueRibbonSushi_478218341:6,"Great food, spectacular location, and friendly service keep us coming back year after year.",,service,friendly,Positive,TRUE,test
@@ -949,22 +949,22 @@ en_BlueRibbonSushi_478218342:3,Still I would recommend this place.,I,this place.
 en_BlueRibbonSushi_478218345:2,"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",,server,wonderful,Positive,TRUE,test
 en_BlueRibbonSushi_478218345:3,"I've always found the wait staff and, if you sit at the bar, the cooks very friendly.",,the cooks,very friendly.,Positive,TRUE,test
 en_BlueRibbonSushi_478218512:0,It's a great place to enjoy food and meet friends.,,food,enjoy,Positive,TRUE,test
-en_BlueRibbonSushi_478218512:1,"¡V The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,pretense,should be no,Negative,TRUE,test
+en_BlueRibbonSushi_478218512:1,"Â¡V The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,pretense,should be no,Negative,TRUE,test
 en_BlueRibbonSushi_478218512:1,I love this restaurant,I,this restaurant,love,Positive,TRUE,test
 en_BlueRibbonSushi_478218512:3,"The prices are outrageous, especially since the food was actually less satisfying than most neighborhood Chinese establishments.",,The prices,"outrageous,",Positive,TRUE,test
 en_BlueRibbonSushi_478218512:3,Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,,yellowtail,incredible,Positive,TRUE,test
 en_BlueRibbonSushi_478218513:2,The steak was done to my exact liking (medium rare) and was nice and juicy.,,The steak,juicy.,Positive,TRUE,test
 en_BlueRibbonSushi_478218513:2,"We were seated right away, the table was private and nice.",,the table,private,Positive,TRUE,test
-en_BlueRibbonSushi_478218513:3,The pizza¡¦s are not huge and the crust is thinÿkeep that in mind when you¡¦re ordering.,,The pizza¡¦s,not huge,Negative,TRUE,test
+en_BlueRibbonSushi_478218513:3,The pizzaÂ¡Â¦s are not huge and the crust is thinÃ¿keep that in mind when youÂ¡Â¦re ordering.,,The pizzaÂ¡Â¦s,not huge,Negative,TRUE,test
 en_BlueRibbonSushi_478218513:4,Best Sushi in town.,,Sushi,Best,Positive,TRUE,test
 en_BlueRibbonSushi_478218513:6,"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",,The wine list,extensive,Positive,TRUE,test
 en_BlueRibbonSushi_478218517:0,It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.,,place,great,Positive,TRUE,test
 en_BlueRibbonSushi_478218517:0,It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.,,place,with tons of potential to be a neighborhood joint,Positive,TRUE,test
 en_BlueRibbonSushi_478218517:1,Fresh ingrediants and super tasty.,,ingrediants,Fresh,Positive,TRUE,test
 en_BlueRibbonSushi_478218517:1,When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!,,the service,horrible!,Negative,TRUE,test
-en_BlueRibbonSushi_478218517:2,¡V Best Mexican place for lunch in the financial district.,,place,Best,Positive,TRUE,test
+en_BlueRibbonSushi_478218517:2,Â¡V Best Mexican place for lunch in the financial district.,,place,Best,Positive,TRUE,test
 en_BlueRibbonSushi_478218517:3,The nicest waiters in town.,,waiters,nicest,Positive,TRUE,test
-en_BlueRibbonSushi_478218518:0,"¡V As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",,service,bad,Positive,TRUE,test
+en_BlueRibbonSushi_478218518:0,"Â¡V As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",,service,bad,Positive,TRUE,test
 en_BlueRibbonSushi_478218518:1,great lunch spot,,lunch spot,great,Positive,TRUE,test
 en_BlueRibbonSushi_478218518:2,I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.,,the food,just okay,Negative,TRUE,test
 en_BlueRibbonSushi_478218519:0,"Great seasonal fish and seafood, with a classy waterfront setting.",,seasonal fish,Great,Positive,TRUE,test
@@ -980,7 +980,7 @@ en_BlueRibbonSushi_478218524:6,"The best place for a leisure Sunday breakfast am
 en_BlueRibbonSushi_478218524:8,"food was fine, with a some little-tastier-than-normal salsa.",,food,"fine,",Positive,TRUE,test
 en_BlueRibbonSushi_478218524:8,Great selection of sakes.,,selection of sakes.,Great,Positive,TRUE,test
 en_BlueRibbonSushi_478218715:1,"Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.",,selection,"be innovative,",Negative,TRUE,test
-en_BlueRibbonSushi_478218900:2,"¡V How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.",,sushi,best,Positive,TRUE,test
+en_BlueRibbonSushi_478218900:2,"Â¡V How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.",,sushi,best,Positive,TRUE,test
 en_BlueRibbonSushi_478218900:2,"At best, the food was good and definately overpriced.",,the food,definately overpriced.,Positive,TRUE,test
 en_BlueRibbonSushi_478218900:3,"the fish was fresh, though it was cut very thin.",,the fish,very thin.,Negative,TRUE,test
 en_BlueRibbonSushi_478218901:1,"The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.",,the food,cold buy the time everyone,Negative,TRUE,test
@@ -988,7 +988,7 @@ en_BlueRibbonSushi_478218901:1,The sushi was excellent and the wait staff was qu
 en_BlueRibbonSushi_478218901:2,This establishment is consistent with my feelings of the rest of Chow Foods group.,,establishment,consistent,Positive,TRUE,test
 en_BlueRibbonSushi_478219447:2,"The crowd is mixed yuppies, young and old.",,The crowd,young,Positive,TRUE,test
 en_BlueRibbonSushi_478219447:2,The only drawback is the crowded seating and the slow service.,,the crowded seating,The only drawback,Negative,TRUE,test
-en_BlueRibbonSushi_478219447:4,¡V Mioposto has a very creative & delicious pizza menu.,,pizza,delicious,Positive,TRUE,test
+en_BlueRibbonSushi_478219447:4,Â¡V Mioposto has a very creative & delicious pizza menu.,,pizza,delicious,Positive,TRUE,test
 en_BlueRibbonSushi_478219453:0,The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.,,The presentation of Snooze,excellent,Positive,TRUE,test
 en_BlueRibbonSushi_478219453:0,"Hands down, the best tuna I have ever had.",,tuna,the best,Positive,TRUE,test
 en_BlueRibbonSushi_478219453:0,Great value sushi with high quality & nice setting.,,value sushi,Great,Positive,TRUE,test
@@ -998,13 +998,13 @@ en_BlueRibbonSushi_478219453:4,"We did have the same waiter the second time, so 
 en_BlueRibbonSushi_478219453:5,"If there is a line very day of the week for the entire time a place is open, you know it is great.",,it,great.,Positive,TRUE,test
 en_BlueRibbonSushi_478219459:1,Our server was very professional and friendly.,,Our server,friendly.,Positive,TRUE,test
 en_BlueRibbonSushi_478219459:1,"The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).",,the service,the worst I have experienced,Negative,TRUE,test
-en_BlueRibbonSushi_478219459:3,¡V This place is unbelievably over-rated.,,This place,unbelievably over-rated.,Positive,TRUE,test
-en_BlueRibbonSushi_479929856:2,"¡V The food is here is incredible, though the quality is inconsistent during lunch.",,the quality,inconsistent,Negative,TRUE,test
+en_BlueRibbonSushi_478219459:3,Â¡V This place is unbelievably over-rated.,,This place,unbelievably over-rated.,Positive,TRUE,test
+en_BlueRibbonSushi_479929856:2,"Â¡V The food is here is incredible, though the quality is inconsistent during lunch.",,the quality,inconsistent,Negative,TRUE,test
 en_BlueRibbonSushi_479929856:2,I have eaten here three times and have found the quality and variety of the fish to be excellent.,,the quality,to be excellent.,Positive,TRUE,test
 en_BlueRibbonSushi_479929856:4,My only negative comment is that I wish the pieces were a little bigger.,,the pieces,a little bigger.,Negative,TRUE,test
 en_BlueRibbonSushi_479929856:4,"However, this place is a gem, and I won't stop going back.",,this place,"a gem,",Negative,TRUE,test
 en_BlueRibbonSushi_479929856:5,The service is really attentive and charming.,,The service,charming.,Positive,TRUE,test
-en_BlueRibbonSushi_479929856:5,"¡V The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,the slices of fish,"should be larger,",Negative,TRUE,test
+en_BlueRibbonSushi_479929856:5,"Â¡V The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,the slices of fish,"should be larger,",Negative,TRUE,test
 en_BlueRibbonSushi_479929856:5,The only drawback is the crowded seating and the slow service.,,the slow service.,The only drawback,Negative,TRUE,test
 en_CatalRestaurant__UvaBar_477861889:0,Great draft and bottle selection and the pizza rocks.,,bottle selection,Great,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477861889:2,The food is simply unforgettable!,,The food,simply unforgettable!,Positive,TRUE,test
@@ -1015,13 +1015,13 @@ en_CatalRestaurant__UvaBar_477861893:1,The only drawback is that this place is r
 en_CatalRestaurant__UvaBar_477861893:2,Everyone that sat in the back outside agreed that it was the worst service we had ever received.,we,service,the worst,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477861893:3,I love the warm & cosy environment.,I,environment.,the warm,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477861893:3,Food was good and appetizing.,,Food,appetizing.,Positive,TRUE,test
-en_CatalRestaurant__UvaBar_477861893:4,¡V Great financial district mexican spot.,,financial district mexican spot.,Great,Positive,TRUE,test
+en_CatalRestaurant__UvaBar_477861893:4,Â¡V Great financial district mexican spot.,,financial district mexican spot.,Great,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:2,"Nice ambience, but highly overrated place.",,"ambience,",Nice,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:2,"Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.",,balance of traditional sushi,nice,Positive,TRUE,test
-en_CatalRestaurant__UvaBar_477862052:3,¡V I really enjoyed my meal here.,I,my meal,enjoyed,Positive,TRUE,test
+en_CatalRestaurant__UvaBar_477862052:3,Â¡V I really enjoyed my meal here.,I,my meal,enjoyed,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:3,my service was stellar!,,my service,stellar!,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:5,Great value sushi with high quality & nice setting.,,setting.,nice,Positive,TRUE,test
-en_CatalRestaurant__UvaBar_477862052:5,¡V The atmosphere is great for any special occasion you might want to celebrate.,,The atmosphere,great,Positive,TRUE,test
+en_CatalRestaurant__UvaBar_477862052:5,Â¡V The atmosphere is great for any special occasion you might want to celebrate.,,The atmosphere,great,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:5,the atmosphere is great.,,the atmosphere,great.,Positive,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:6,Very poor customer service.,,customer service.,Very poor,Negative,TRUE,test
 en_CatalRestaurant__UvaBar_477862052:7,"Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.",,Our waiter,non-existent,Positive,TRUE,test
@@ -1045,11 +1045,11 @@ en_India'sGrill_477960698:7,"If you're interested in good tasting (without the f
 en_MercedesRestaurant_478010600:1,And the service was simply spendid - quite a delight.,,the service,spendid,Positive,TRUE,test
 en_MercedesRestaurant_478010600:2,"I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.",,pizza,lacks quality,Positive,TRUE,test
 en_MercedesRestaurant_478010600:2,"The appetizer was interesting, but the Creme Brulee was very savory and delicious.",,The appetizer,"interesting,",Positive,TRUE,test
-en_MercedesRestaurant_478010600:2,The pizza¡¦s are thin crust and the menu offers very creative combinations and toppings.,,The pizza¡¦s,thin crust,Positive,TRUE,test
+en_MercedesRestaurant_478010600:2,The pizzaÂ¡Â¦s are thin crust and the menu offers very creative combinations and toppings.,,The pizzaÂ¡Â¦s,thin crust,Positive,TRUE,test
 en_MercedesRestaurant_478010600:3,Some of the food is clearly oriented toward foodies (like me) so if your not a foodie (nothing wrong with that)- head over to McDonalds or some Ruby Tuesday and have at it!,,Some of the food,clearly oriented toward foodies (like me),Negative,TRUE,test
 en_MercedesRestaurant_478010600:3,The band was very good and the service was attentive.,,The band,very good,Positive,TRUE,test
 en_MercedesRestaurant_478010600:3,"The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.",I,"the bhartha,",enjoyed,Positive,TRUE,test
-en_MercedesRestaurant_478010601:0,¡V I was highly disappointed in the food at Pagoda.,I,food,highly disappointed,Negative,TRUE,test
+en_MercedesRestaurant_478010601:0,Â¡V I was highly disappointed in the food at Pagoda.,I,food,highly disappointed,Negative,TRUE,test
 en_MercedesRestaurant_478010601:1,"Excellent food, nice ambience, fairly expensive",,"ambience,",nice,Positive,TRUE,test
 en_MercedesRestaurant_478010602:0,best chinese food i have tasted in a long time,,chinese food,best,Positive,TRUE,test
 en_MercedesRestaurant_478010603:1,It was steamed and tossed with garlic.,,It,steamed,Positive,TRUE,test
@@ -1060,7 +1060,7 @@ en_MercedesRestaurant_478010605:2,best honey walnyt prawns that we have every ta
 en_MercedesRestaurant_478010605:4,"I picked the asparagus, which turned out to be incredible and perfectly prepared.",,"asparagus,",incredible,Negative,TRUE,test
 en_MercedesRestaurant_478010605:4,Caesar salad was superb.,,Caesar salad,superb.,Positive,TRUE,test
 en_MercedesRestaurant_480852899:1,The food was all good but it was way too mild.,,The food,all good,Positive,TRUE,test
-en_MercedesRestaurant_480852899:1,¡V The food was not great & the waiters were rude.,,the waiters,rude.,Negative,TRUE,test
+en_MercedesRestaurant_480852899:1,Â¡V The food was not great & the waiters were rude.,,the waiters,rude.,Negative,TRUE,test
 en_MiopostoCaffe_478542919:10,Drinks were good.,,Drinks,good.,Positive,TRUE,test
 en_MiopostoCaffe_478542919:10,"Everything you want and more, very fresh.",,Everything you want,very fresh.,Positive,TRUE,test
 en_MiopostoCaffe_478542919:2,"The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).",,the prices,alright,Positive,TRUE,test
@@ -1069,7 +1069,7 @@ en_MiopostoCaffe_478542920:0,The food was all good but it was way too mild.,,it,
 en_MiopostoCaffe_478542920:1,I had the Kafta plate and it was perfect.,,it,perfect.,Positive,TRUE,test
 en_MiopostoCaffe_478542920:2,"The atmosphere is aspiring, and the decor is festive and amazing..",,The atmosphere,"aspiring,",Negative,TRUE,test
 en_MiopostoCaffe_478542920:4,Just go there and see for yourself.,,there,Just go,Positive,TRUE,test
-en_MiopostoCaffe_478542920:4,¡V This place is famous for their breakfast.,,This place,famous for their breakfast.,Positive,TRUE,test
+en_MiopostoCaffe_478542920:4,Â¡V This place is famous for their breakfast.,,This place,famous for their breakfast.,Positive,TRUE,test
 en_MiopostoCaffe_478542920:5,"The restaurant was busy, however there were a few tables open.",,The restaurant,"busy,",Negative,TRUE,test
 en_MiopostoCaffe_478542920:6,"Parking is reasonably good, they have their own lot and you can park in the park nearby.",,Parking,"reasonably good,",Positive,TRUE,test
 en_MiopostoCaffe_478542920:6,big thick pepperoni,,pepperoni,big,Positive,TRUE,test
@@ -1084,13 +1084,13 @@ en_MiopostoCaffe_478542922:0,A perfect place to take out of town guests any time
 en_MiopostoCaffe_478542922:0,"Nice ambience, but highly overrated place.",,place.,highly overrated,Negative,TRUE,test
 en_MiopostoCaffe_478542922:7,"Portions was just enough for me, but may not be for a big eater.",,Portions,may not be for a big eater.,Negative,TRUE,test
 en_MiopostoCaffe_478542922:8,Its great if you spent the day there and didn't want to drive to eat.,,Its,great,Positive,TRUE,test
-en_MiopostoCaffe_478542922:8,"¡V This review is for the Southglen location which is not listed in Citysearch: I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service, so this review as well as the other negative ones for their Larimer location will go unaddressed.",,location,will go unaddressed.,Negative,TRUE,test
-en_MiopostoCaffe_478542922:8,"¡V I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",I,"meal, service,",never forget,Positive,TRUE,test
+en_MiopostoCaffe_478542922:8,"Â¡V This review is for the Southglen location which is not listed in Citysearch: I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service, so this review as well as the other negative ones for their Larimer location will go unaddressed.",,location,will go unaddressed.,Negative,TRUE,test
+en_MiopostoCaffe_478542922:8,"Â¡V I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",I,"meal, service,",never forget,Positive,TRUE,test
 en_MiopostoCaffe_478543071:1,"food was fine, with a some little-tastier-than-normal salsa.",,food,with a some little-tastier-than-normal salsa.,Positive,TRUE,test
 en_MiopostoCaffe_478543071:3,"At best, the food was good and definately overpriced.",,the food,good,Positive,TRUE,test
 en_MiopostoCaffe_478543071:3,"plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!",,the waitstaff,unbelievably accomodating,Positive,TRUE,test
 en_MiopostoCaffe_478543072:3,"I complained to the manager, but he was not even apologetic.",I,"the manager,",not even apologetic.,Negative,TRUE,test
-en_MiopostoCaffe_478543072:3,¡V I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,I,the pumpkin ravioli,loved,Positive,TRUE,test
+en_MiopostoCaffe_478543072:3,Â¡V I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,I,the pumpkin ravioli,loved,Positive,TRUE,test
 en_MiopostoCaffe_478543072:4,When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!,,the atmosphere,cozy,Positive,TRUE,test
 en_MiopostoCaffe_478543072:6,"For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.",,the service,superb.,Positive,TRUE,test
 en_MiopostoCaffe_479702043:10,"Even then, the order was not correct and we were still waiting for a couple items.",,the order,not correct,Negative,TRUE,test
@@ -1110,7 +1110,7 @@ en_Murphy's_478075040:3,"the food was great, the margaritas too but the waitress
 en_Murphy's_478075041:3,The staff are friendly and the decor was ethic and colorful.,,the decor,ethic,Positive,TRUE,test
 en_Murphy's_478075041:4,It reminds me of those great little restaurants in San Francisco.,,restaurants,little,Positive,TRUE,test
 en_OpenSesame_477970770:0,I can highly recommend their various saag and paneer and korma.,I,paneer,recommend,Positive,TRUE,test
-en_OpenSesame_477970770:4,¡V ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.,,summertime deck experience--they,best,Positive,TRUE,test
+en_OpenSesame_477970770:4,Â¡V ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.,,summertime deck experience--they,best,Positive,TRUE,test
 en_OpenSesame_477970936:2,Love the enchiladas and chicken soup - and be sure to check out their specials.,,the enchiladas,Love,Positive,TRUE,test
 en_OpenSesame_477970936:3,"The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.",,the bar tenders,"generous with the pouring,",Positive,TRUE,test
 en_OpenSesame_477970936:3,the brocollis were so fresh and tasty.,,the brocollis,fresh,Positive,TRUE,test
@@ -1120,7 +1120,7 @@ en_OpenSesame_477970936:5,Maybe it is good for that one night once in a blue moo
 en_OpenSesame_477970937:0,The decor was beautiful and unique.,,The decor,unique.,Positive,TRUE,test
 en_OpenSesame_477970937:10,This place is charming and relaxing.,,This place,relaxing.,Positive,TRUE,test
 en_OpenSesame_477970937:5,Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).,,appetizer,Amazing,Positive,TRUE,test
-en_OpenSesame_477970937:5,¡V By far the best bar in the east village...,,bar,far the best,Positive,TRUE,test
+en_OpenSesame_477970937:5,Â¡V By far the best bar in the east village...,,bar,far the best,Positive,TRUE,test
 en_OpenSesame_477970937:7,"The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.",,entre,perfect,Positive,TRUE,test
 en_OpenSesame_477970938:2,The food is great and they make a mean bloody mary.,,The food,great,Positive,TRUE,test
 en_OpenSesame_477970938:8,"The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.",,The bathroom,very small,Negative,TRUE,test
@@ -1131,7 +1131,7 @@ en_OpenSesame_477970939:5,"The food was very good, filet mignon was probably the
 en_OpenSesame_477970940:1,"so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.",,"the prawns, they",fresh,Negative,TRUE,test
 en_OpenSesame_477970940:5,The servers behind the counter are always friendly and helpful.,,counter,helpful.,Positive,TRUE,test
 en_OpenSesame_477970940:6,The atmosphere was just okay.,,The atmosphere,just okay.,Negative,TRUE,test
-en_OpenSesame_477970940:6,"¡V Mercedes restaurant is so tasty, the service is undeniably awesome!",,the service,undeniably awesome!,Negative,TRUE,test
+en_OpenSesame_477970940:6,"Â¡V Mercedes restaurant is so tasty, the service is undeniably awesome!",,the service,undeniably awesome!,Negative,TRUE,test
 en_OpenSesame_477970940:8,I'd go back there in a heartbeat.,,there,I'd go back,Positive,TRUE,test
 en_OpenSesame_477970940:8,i highly recommend this place to all that want to try indain food for the first time.,i,this place,recommend,Positive,TRUE,test
 en_PagodaRestaurant_478006816:1,It's the perfect spot for a romantic date for 2 or a secret rendezvous!,,spot,perfect,Positive,TRUE,test
@@ -1164,7 +1164,7 @@ en_ParkChaletGardenRestaurant_477778210:3,Southglenn is largest location.,,South
 en_ParkChaletGardenRestaurant_477778210:3,The service was courteous and attentive.,,The service,courteous,Positive,TRUE,test
 en_ParkChaletGardenRestaurant_477778211:16,Great open and friendly ambience.,,ambience.,open,Positive,TRUE,test
 en_ParkChaletGardenRestaurant_477778211:16,Great Breakfast,,Breakfast,Great,Positive,TRUE,test
-en_ParkChaletGardenRestaurant_477778211:19,"good sake, good food ¡V i honestly don't know much about japanese food at all.",,food,good,Positive,TRUE,test
+en_ParkChaletGardenRestaurant_477778211:19,"good sake, good food Â¡V i honestly don't know much about japanese food at all.",,food,good,Positive,TRUE,test
 en_ParkChaletGardenRestaurant_477778211:20,It is not worth going at all and spend your money there!!!,,It,not worth,Negative,TRUE,test
 en_ParkChaletGardenRestaurant_477778211:3,"The chips and salsa are so yummy, and the prices are fabulous.",,the prices,fabulous.,Positive,TRUE,test
 en_ParkChaletGardenRestaurant_477778211:4,Service was decent.,,Service,decent.,Positive,TRUE,test
@@ -1179,11 +1179,11 @@ en_Patsy'sPizzeria_478232062:0,It was decent but nothing exceptional.,,It,nothin
 en_ProfessorThom's_478606538:3,"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",,The wine list,incredible,Positive,TRUE,test
 en_ProfessorThom's_478606538:6,"We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!",,tables,available 30 minutes ago!!,Positive,TRUE,test
 en_ProfessorThom's_478606538:6,The food is sinful.,,The food,sinful.,Positive,TRUE,test
-en_ProfessorThom's_478606538:7,¡V Every neighborhood has a few great local bars that are the best secrets.,,local bars,great,Positive,TRUE,test
+en_ProfessorThom's_478606538:7,Â¡V Every neighborhood has a few great local bars that are the best secrets.,,local bars,great,Positive,TRUE,test
 en_ProfessorThom's_478606540:2,"The pancakes were certainly inventive but $8.50 for 3 - 6"" pancakes (one of them was more like 5"") in the pancake flight (sample of 3 different pancakes) is well over-priced.",,different pancakes),well over-priced.,Positive,TRUE,test
 en_ProfessorThom's_478606540:4,For the amount of food we got the prices should have been lower.,,prices,should have been lower.,Negative,TRUE,test
 en_ProfessorThom's_478606543:0,"Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!",,hummus,best,Positive,TRUE,test
-en_ProfessorThom's_478606543:2,"good sake, good food ¡V i honestly don't know much about japanese food at all.",,food,good,Positive,TRUE,test
+en_ProfessorThom's_478606543:2,"good sake, good food Â¡V i honestly don't know much about japanese food at all.",,food,good,Positive,TRUE,test
 en_ProfessorThom's_478606543:4,It has great sushi and even better service.,,sushi,great,Positive,TRUE,test
 en_ProfessorThom's_478606543:6,For the amount of food we got the prices should have been lower.,,the amount of food,should have been lower.,Negative,TRUE,test
 en_Ray'sBoathouse_477775915:2,"On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.",,our waiter,"extremely dismissive,",Negative,TRUE,test
@@ -1199,7 +1199,7 @@ en_Ray'sBoathouse_477775918:15,I went there with some friends one night to play 
 en_Ray'sBoathouse_477775918:3,"We were seated right away, the table was private and nice.",,the table,nice.,Positive,TRUE,test
 en_Ray'sBoathouse_477775918:7,"The restaurant was 80 % full and there was a sign posted ""wait to be seated.""",,The restaurant,80 % full,Negative,TRUE,test
 en_Ray'sBoathouse_477775919:1,good sake selection.,,sake selection.,good,Positive,TRUE,test
-en_Ray'sBoathouse_477775919:2,great meal ¡V the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!,,meal,great,Positive,TRUE,test
+en_Ray'sBoathouse_477775919:2,great meal Â¡V the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!,,meal,great,Positive,TRUE,test
 en_Ray'sBoathouse_477775920:3,The pizza was slightly reminescent of Baker's Beach pizza which occupied the the space years ago (a distant second).,,pizza,reminescent of Baker's Beach pizza,Negative,TRUE,test
 en_Ray'sBoathouse_477775920:3,"Great seasonal fish and seafood, with a classy waterfront setting.",,waterfront setting.,classy,Positive,TRUE,test
 en_Sage_480875505:4,"best restaurant in the world, great decor, great customer service, friendly manager",,restaurant,best,Positive,TRUE,test
@@ -1208,21 +1208,21 @@ en_SchoonerOrLater_477965689:2,It was steamed and tossed with garlic.,,It,tossed
 en_SchoonerOrLater_477965848:2,"the fish was fresh, though it was cut very thin.",,the fish,"fresh,",Positive,TRUE,test
 en_SchoonerOrLater_477965848:2,The service is really attentive and charming.,,The service,really attentive,Positive,TRUE,test
 en_SchoonerOrLater_477965848:6,I swore never to return for a warm beer and mediocre meal.,I,meal.,warm,Positive,TRUE,test
-en_SchoonerOrLater_477965848:6,¡V I highly recommend Mioposto.,,Mioposto.,recommend,Positive,TRUE,test
+en_SchoonerOrLater_477965848:6,Â¡V I highly recommend Mioposto.,,Mioposto.,recommend,Positive,TRUE,test
 en_SchoonerOrLater_477965849:2,Nice food but no spice!,,food,no spice!,Negative,TRUE,test
-en_SchoonerOrLater_477965849:2,"¡V Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.",,location,charming,Positive,TRUE,test
+en_SchoonerOrLater_477965849:2,"Â¡V Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.",,location,charming,Positive,TRUE,test
 en_SchoonerOrLater_477965849:4,"But the space is small and lovely, and the service is helpful.",,the space,small,Positive,TRUE,test
 en_SchoonerOrLater_477965849:5,"The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.",,the food,outstanding.,Positive,TRUE,test
 en_SchoonerOrLater_477965850:1,Food was good and appetizing.,,Food,good,Positive,TRUE,test
 en_SchoonerOrLater_477965850:2,The wine list is wonderful and the food reminds me of my recent trip to Italy.,,The wine list,wonderful,Positive,TRUE,test
-en_SchoonerOrLater_477965850:3,¡V My first time to dine at this restaurant was with my son and it was absolutely horrible!,,it,absolutely horrible!,Positive,TRUE,test
+en_SchoonerOrLater_477965850:3,Â¡V My first time to dine at this restaurant was with my son and it was absolutely horrible!,,it,absolutely horrible!,Positive,TRUE,test
 en_SchoonerOrLater_479615721:1,"While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.",,this attitude,the lack of service.,Positive,TRUE,test
 en_SchoonerOrLater_479615721:3,"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",,the experience,very positive one.,Positive,TRUE,test
 en_SchoonerOrLater_479615721:3,The flavors were good but I have had far better pancakes at a German pancake specialty restaurant that were a little cheaper but significantly larger.,,The flavors,good,Positive,TRUE,test
 en_SchoonerOrLater_479842021:2,"i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.",,prawns,nicely cooked.,Negative,TRUE,test
 en_SchoonerOrLater_479842021:3,"The atmosphere is aspiring, and the decor is festive and amazing..",,the decor,festive,Positive,TRUE,test
 en_SchoonerOrLater_479842021:3,Enjoyed the food,,the food,Enjoyed,Positive,TRUE,test
-en_SchoonerOrLater_479842021:4,"¡V As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",,the food,overpriced.,Positive,TRUE,test
+en_SchoonerOrLater_479842021:4,"Â¡V As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",,the food,overpriced.,Positive,TRUE,test
 en_SchoonerOrLater_479842021:6,It was absolutely amazing.,,It,absolutely amazing.,Positive,TRUE,test
 en_SchoonerOrLater_479842021:7,"Oh, and the cheese fries are awesome!",,the cheese fries,awesome!,Positive,TRUE,test
 en_SchoonerOrLater_479842021:7,"The chips and salsa are so yummy, and the prices are fabulous.",,The chips,"yummy,",Positive,TRUE,test
@@ -1236,7 +1236,7 @@ en_SnoozeanAMEatery_480032670:6,I liked the atmosphere very much but the food wa
 en_SnoozeanAMEatery_480133929:4,"The food is fantastic, and the waiting staff has been perfect every single time we've been there.",,The food,"fantastic,",Positive,TRUE,test
 en_SnoozeanAMEatery_480133929:8,It reminds me of those great little restaurants in San Francisco.,,restaurants,great,Positive,TRUE,test
 en_SnoozeanAMEatery_480171723:2,Food was good and cheap.,,Food,good,Positive,TRUE,test
-en_SnoozeanAMEatery_480171723:3,The pizza¡¦s are light and scrumptious.,,The pizza¡¦s,light,Positive,TRUE,test
+en_SnoozeanAMEatery_480171723:3,The pizzaÂ¡Â¦s are light and scrumptious.,,The pizzaÂ¡Â¦s,light,Positive,TRUE,test
 en_SnoozeanAMEatery_480171723:7,My g/f and I both agreed the food was very mediocre especially considering the price.,I,the food,very mediocre,Negative,TRUE,test
 en_SnoozeanAMEatery_480171723:9,"The atmosphere is aspiring, and the decor is festive and amazing..",,the decor,amazing..,Positive,TRUE,test
 en_SnoozeanAMEatery_480412257:3,"The appetizer was interesting, but the Creme Brulee was very savory and delicious.",,the Creme Brulee,very savory,Positive,TRUE,test
@@ -1251,7 +1251,7 @@ en_StackRestaurant__Bar_478538111:3,The steak was done to my exact liking (mediu
 en_StackRestaurant__Bar_478538111:3,"Before the steak came, the server told us that the steak did not come with any sides and suggested I pick something from the menu.",,the steak,not come with any sides,Negative,TRUE,test
 en_StackRestaurant__Bar_478538111:3,The sushi here is delicious!,,The sushi,delicious!,Positive,TRUE,test
 en_StackRestaurant__Bar_478538111:4,The service was courteous and attentive.,,The service,attentive.,Positive,TRUE,test
-en_StackRestaurant__Bar_478538111:5,"¡V I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",I,ambiance,never forget,Positive,TRUE,test
+en_StackRestaurant__Bar_478538111:5,"Â¡V I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",I,ambiance,never forget,Positive,TRUE,test
 en_StackRestaurant__Bar_478538111:6,"The pancakes were certainly inventive but $8.50 for 3 - 6"" pancakes (one of them was more like 5"") in the pancake flight (sample of 3 different pancakes) is well over-priced.",,The pancakes,certainly inventive,Negative,TRUE,test
 en_StackRestaurant__Bar_478538111:8,"The chips and salsa are so yummy, and the prices are fabulous.",,salsa,"yummy,",Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:0,Best Crab Cakes in Town,,Cakes,Best,Positive,TRUE,test
@@ -1262,7 +1262,7 @@ en_StackRestaurant__Bar_478538239:11,The staff was really friendly.,,The staff,r
 en_StackRestaurant__Bar_478538239:11,the staff was very nice and courteous and obviously chinese.,,the staff,very nice,Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:15,"Best food, phenominal service",,service,phenominal,Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:17,the brocollis were so fresh and tasty.,,the brocollis,tasty.,Positive,TRUE,test
-en_StackRestaurant__Bar_478538239:18,The pizza¡¦s are light and scrumptious.,,The pizza¡¦s,scrumptious.,Positive,TRUE,test
+en_StackRestaurant__Bar_478538239:18,The pizzaÂ¡Â¦s are light and scrumptious.,,The pizzaÂ¡Â¦s,scrumptious.,Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:19,Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,,the rolls,tasty.,Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:19,The pizza is delicious and the salads are fantastic.,,the salads,fantastic.,Positive,TRUE,test
 en_StackRestaurant__Bar_478538239:7,"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",,the staff,"very nice, good",Positive,TRUE,test
