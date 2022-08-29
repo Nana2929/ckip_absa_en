@@ -73,13 +73,13 @@ en_BlueRibbonSushi_478218342:3,Still I would recommend this place.,I,this place.
 en_BlueRibbonSushi_478218345:2,"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",,server,wonderful,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218345:3,"I've always found the wait staff and, if you sit at the bar, the cooks very friendly.",,the cooks,very friendly.,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218512:0,It's a great place to enjoy food and meet friends.,,food,enjoy,Positive,T,T,T,T,TRUE
-en_BlueRibbonSushi_478218512:1," The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,pretense,should be no,Negative,T,T,T,T,TRUE
+en_BlueRibbonSushi_478218512:1,"The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,pretense,should be no,Negative,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218512:1,I love this restaurant,I,this restaurant,love,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218512:3,"The prices are outrageous, especially since the food was actually less satisfying than most neighborhood Chinese establishments.",,The prices,"outrageous,",Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218512:3,Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,,yellowtail,incredible,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218513:2,The steak was done to my exact liking (medium rare) and was nice and juicy.,,The steak,juicy.,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218513:2,"We were seated right away, the table was private and nice.",,the table,private,Positive,T,T,T,T,TRUE
-en_BlueRibbonSushi_478218513:3,The pizzas are not huge and the crust is thin�keep that in mind when youre ordering.,,The pizzas,not huge,Negative,T,T,T,T,TRUE
+en_BlueRibbonSushi_478218513:3,The pizzas are not huge and the crust is thin¦keep that in mind when youre ordering.,,The pizzas,not huge,Negative,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218513:4,Best Sushi in town.,,Sushi,Best,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218513:6,"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",,The wine list,extensive,Positive,T,T,T,T,TRUE
 en_BlueRibbonSushi_478218517:0,It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.,,place,great,Positive,T,T,T,T,TRUE
@@ -128,7 +128,7 @@ en_BlueRibbonSushi_479929856:2,I have eaten here three times and have found the 
 en_BlueRibbonSushi_479929856:4,My only negative comment is that I wish the pieces were a little bigger.,,the pieces,a little bigger.,Negative,T,T,T,T,TRUE
 en_BlueRibbonSushi_479929856:4,"However, this place is a gem, and I won't stop going back.",,this place,"a gem,",Negative,T,T,T,T,TRUE
 en_BlueRibbonSushi_479929856:5,The service is really attentive and charming.,,The service,charming.,Positive,T,T,T,T,TRUE
-en_BlueRibbonSushi_479929856:5," The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,the slices of fish,"should be larger,",Negative,T,T,T,T,TRUE
+en_BlueRibbonSushi_479929856:5,"The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,the slices of fish,"should be larger,",Negative,T,T,T,T,TRUE
 en_BlueRibbonSushi_479929856:5,The only drawback is the crowded seating and the slow service.,,the slow service.,The only drawback,Negative,T,T,T,T,TRUE
 en_CatalRestaurant__UvaBar_477861889:0,Great draft and bottle selection and the pizza rocks.,,bottle selection,Great,Positive,T,T,T,T,TRUE
 en_CatalRestaurant__UvaBar_477861889:2,The food is simply unforgettable!,,The food,simply unforgettable!,Positive,T,T,T,T,TRUE
@@ -214,7 +214,7 @@ en_MiopostoCaffe_478543071:1,"food was fine, with a some little-tastier-than-nor
 en_MiopostoCaffe_478543071:3,"At best, the food was good and definately overpriced.",,the food,good,Positive,T,T,T,T,TRUE
 en_MiopostoCaffe_478543071:3,"plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!",,the waitstaff,unbelievably accomodating,Positive,T,T,T,T,TRUE
 en_MiopostoCaffe_478543072:3,"I complained to the manager, but he was not even apologetic.",I,"the manager,",not even apologetic.,Negative,T,T,T,T,TRUE
-en_MiopostoCaffe_478543072:3, I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,I,the pumpkin ravioli,loved,Positive,T,T,T,T,TRUE
+en_MiopostoCaffe_478543072:3,I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,I,the pumpkin ravioli,loved,Positive,T,T,T,T,TRUE
 en_MiopostoCaffe_478543072:4,When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!,,the atmosphere,cozy,Positive,T,T,T,T,TRUE
 en_MiopostoCaffe_478543072:6,"For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.",,the service,superb.,Positive,T,T,T,T,TRUE
 en_MiopostoCaffe_479702043:10,"Even then, the order was not correct and we were still waiting for a couple items.",,the order,not correct,Negative,T,T,T,T,TRUE
@@ -478,7 +478,7 @@ en_BlueRibbonSushi_478219453:3,"Furthermore, while the fish is unquestionably fr
 en_BlueRibbonSushi_478219453:6,We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.,,,,,,,F,F,FALSE
 en_BlueRibbonSushi_478219453:7,But Im sure this was just an honest mistake...,,,,,,,F,F,FALSE
 en_BlueRibbonSushi_478219459:0,Chintzy portions,,,,,,,F,F,FALSE
-en_BlueRibbonSushi_478219459:1," The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,,"perfectly good,",Negative,,,F,T,FALSE
+en_BlueRibbonSushi_478219459:1,"The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",,,"perfectly good,",Negative,,,F,T,FALSE
 en_BlueRibbonSushi_478219459:2,We easily spent more than $40 per person (not including alcohol) and were still hungry.,,,,,,,F,F,FALSE
 en_BlueRibbonSushi_479929856:0,Freshest sushi   I love this restaurant.,,,,,,,F,F,FALSE
 en_BlueRibbonSushi_479929856:1,They pay such detail to everything from miso soup to complex rolls.,,,,,,,F,F,FALSE
@@ -507,7 +507,7 @@ en_India'sGrill_477960694:3,I think I have probably tried each item on their men
 en_India'sGrill_477960694:5,"You routinely see Indian families and friends dining there, which is always a good sign.",,,,,,,F,F,FALSE
 en_India'sGrill_477960694:6,I appreciate their delivery too.,,,,,,,F,F,FALSE
 en_India'sGrill_477960696:0,i love this place!,,,,,,,F,F,FALSE
-en_India'sGrill_477960696:1, i have been eating at this place for over 8 years now and i have never had one bad meal.,,,,,,,F,F,FALSE
+en_India'sGrill_477960696:1,i have been eating at this place for over 8 years now and i have never had one bad meal.,,,,,,,F,F,FALSE
 en_India'sGrill_477960696:4,"plenty of food,trust me .",,,,,,,F,F,FALSE
 en_India'sGrill_477960696:6,The place is the next best thing to my Moms cooking.,,,,,,,F,F,FALSE
 en_India'sGrill_477960698:2,"I had yummy lamb korma, saag paneer, samosas, naan, etc.",,,,,,,F,F,FALSE
@@ -572,7 +572,7 @@ en_MiopostoCaffe_478543072:2,"In fact, many want to return a second time during 
 en_MiopostoCaffe_478543072:5,"They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.",,,,,,,F,F,FALSE
 en_MiopostoCaffe_478543072:7,It's just the right size for the menu.,,,,,,,F,F,FALSE
 en_MiopostoCaffe_479702043:0,Excellent,,,Excellent,Positive,,,F,T,FALSE
-en_MiopostoCaffe_479702043:1, My husband and I love eating at Mioposto Café.,,,,,,,F,F,FALSE
+en_MiopostoCaffe_479702043:1, My husband and I love eating at Mioposto CafÃ©.,,,,,,,F,F,FALSE
 en_MiopostoCaffe_479702043:2,Were cant say enough about their delicious gourmet pizzas!,,,enough,Positive,,,F,T,FALSE
 en_MiopostoCaffe_479702043:3,You wont be disappointed by their menu.,,,,,,,F,F,FALSE
 en_MiopostoCaffe_479702043:5,You never feel icky and stuffed after you eat there.,,,icky,Negative,,,F,T,FALSE
@@ -586,7 +586,7 @@ en_Murphy's_478075040:4,I have not a bad thing to say about this place.,,,,,,,F,
 en_Murphy's_478075040:5,AMAZING.,,,,,,,F,F,FALSE
 en_Murphy's_478075040:6,I cannot wait to go back again this coming weekend!,I,,wait to go,Positive,,,F,T,FALSE
 en_Murphy's_478075041:0,A cozy spot for 2,,,,,,,F,F,FALSE
-en_Murphy's_478075041:1," I can't believe Murphy's has been around for over 25 years, amazing.",,,,,,,F,F,FALSE
+en_Murphy's_478075041:1,"I can't believe Murphy's has been around for over 25 years, amazing.",,,,,,,F,F,FALSE
 en_Murphy's_478075041:2,"That's a huge compliment, especially in the fickled restaurant business, ...enough already!",,,,,,,F,F,FALSE
 en_Murphy's_478075041:5,Save room for  scrumptious desserts.,,,,,,,F,F,FALSE
 en_Murphy's_478075041:6,The restaurant offers an extensive wine list and an ambiance you won't forget!,,,,,,,F,F,FALSE
@@ -599,7 +599,7 @@ en_OpenSesame_477970770:2,"Cry me a river, stop complaining you obviously you ha
 en_OpenSesame_477970770:3,i am never disappointed with there food.,i,,never disappointed,Negative,,,F,T,FALSE
 en_OpenSesame_477970770:5,and all you other people that have a problem get some help,,,problem get some help,Negative,,,F,T,FALSE
 en_OpenSesame_477970936:0,Delicious...!,,,Delicious...!,Negative,,,F,T,FALSE
-en_OpenSesame_477970936:1, I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.,,,,,,,F,F,FALSE
+en_OpenSesame_477970936:1,I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.,,,,,,,F,F,FALSE
 en_OpenSesame_477970936:2,"The food is fantastic, authentic, delicious and very, very affordable.",,,very affordable.,Positive,,,F,T,FALSE
 en_OpenSesame_477970936:6,To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!,,,,,,,F,F,FALSE
 en_OpenSesame_477970937:1," First of all, I am not from Long Beach.",I,,not from Long Beach.,Negative,,,F,T,FALSE
@@ -689,7 +689,7 @@ en_ParkChaletGardenRestaurant_477778211:5,"So here we are, my wife, 3 year old d
 en_ParkChaletGardenRestaurant_477778211:6,30 minutes went by and sure enough the pager buzzer went off.,,,30 minutes went by,Positive,,,F,T,FALSE
 en_ParkChaletGardenRestaurant_477778211:8,Logic behind that?,,,,,,,F,F,FALSE
 en_ParkChaletGardenRestaurant_477778211:9,None that I can think of.,,,,,,,F,F,FALSE
-en_ParkChaletGardenRestaurant_477778282:1, A group of 5 of us went there for Sunday brunch and sat outside.,,,,,,,F,F,FALSE
+en_ParkChaletGardenRestaurant_477778282:1,A group of 5 of us went there for Sunday brunch and sat outside.,,,,,,,F,F,FALSE
 en_ParkChaletGardenRestaurant_477778282:5,I will never return again.,I,,never return again.,Negative,,,F,T,FALSE
 en_Patsy'sPizzeria_478231878:0,Mama Mia  I live in the neighborhood and feel lucky to live by such a great pizza place.,,,great,Positive,,,F,T,FALSE
 en_Patsy'sPizzeria_478231878:1,"the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.",,,,,,,F,F,FALSE
@@ -723,7 +723,7 @@ en_Ray'sBoathouse_477775915:3,We were only in Seattle for one night and I'm so g
 en_Ray'sBoathouse_477775915:4,I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!,,,,,,,F,F,FALSE
 en_Ray'sBoathouse_477775915:6,I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!,,,,,,,F,F,FALSE
 en_Ray'sBoathouse_477775916:0,Old Reliable,,,Old Reliable,Negative,,,F,T,FALSE
-en_Ray'sBoathouse_477775916:1, After 12 years in Seattle Ray's rates as the place we always go back to.,,,,,,,F,F,FALSE
+en_Ray'sBoathouse_477775916:1,After 12 years in Seattle Ray's rates as the place we always go back to.,,,,,,,F,F,FALSE
 en_Ray'sBoathouse_477775917:0,Seattle's BEST Winelist,,,BEST,Positive,,,F,T,FALSE
 en_Ray'sBoathouse_477775917:1, Ray's (suprisingly) has the city's BEST & most diverse wine list.,,,,,,,F,F,FALSE
 en_Ray'sBoathouse_477775917:3,I would go back for the wine experience alone.,I,,would go back,Positive,,,F,T,FALSE
@@ -793,7 +793,7 @@ en_SnoozeanAMEatery_480032670:1," Had to wait thirty minutes to get in the door 
 en_SnoozeanAMEatery_480032670:5,"The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.",,,"decadent pancakes,",Positive,,,F,T,FALSE
 en_SnoozeanAMEatery_480032670:7,"Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.",,,Go,Positive,,,F,T,FALSE
 en_SnoozeanAMEatery_480133929:0,4 Locations,,,,,,,F,F,FALSE
-en_SnoozeanAMEatery_480133929:1, they have 4 locations.,,,,,,,F,F,FALSE
+en_SnoozeanAMEatery_480133929:1,they have 4 locations.,,,,,,,F,F,FALSE
 en_SnoozeanAMEatery_480133929:2,the 2 listed and then one in Southglenn mall parking lot which is reviewed here and one in Ft Collins.,,,,,,,F,F,FALSE
 en_SnoozeanAMEatery_480133929:3,We waited for an hour to be seated.,,,,,,,F,F,FALSE
 en_SnoozeanAMEatery_480133929:4,"The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.",,,by starbucks standards,Positive,,,F,T,FALSE
